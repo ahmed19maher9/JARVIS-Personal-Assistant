@@ -1,0 +1,89 @@
+# Compiled classes
+target/
+build/
+*.class
+*.jar
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+conda-meta/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+
+# Model files (large binary files)
+*.pth
+*.pt
+*.onnx
+*.bin
+
+# Logs
+*.log
+logs/
+
+# Configuration files with secrets
+.env
+*.env.local
+*.env.production
+config.local.json
+
+# Temporary files
+temp/
+tmp/
+*.bak
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Application specific
+reply.wav
+*.pid
+
+# Training and conversation data
+conversations/
+training_data/
+
+# AI model and training artifacts
+ACE-Step-1.5/
+outputs/
+tensors/
+unsloth_compiled_cache/
+
+# Face recognition data
+faces/
+
+# Model files and checkpoints
+models/
+
+scripts/nul
+scripts/null

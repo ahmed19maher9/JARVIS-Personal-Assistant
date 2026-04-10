@@ -32,11 +32,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Audio files
-*.wav
-*.mp3
-*.ogg
-
 # Model files (large binary files)
 *.pth
 *.pt
